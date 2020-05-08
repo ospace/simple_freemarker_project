@@ -9,14 +9,15 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tistory.ospace</groupId>
-	<artifactId>SimpleProject</artifactId>
+	<artifactId>simple-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>Freemaker</name>
+	<name>simple-freemaker-project</name>
 	<description>Simple freemarker project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
+		<maven.encoding>UTF-8</maven.encoding>
 		<maven.test.skip>true</maven.test.skip>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
