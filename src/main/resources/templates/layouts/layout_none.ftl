@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title><tiles:getAsString name="title"/></title>
+    <title><@tiles.getAsString name="title"/></title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         
