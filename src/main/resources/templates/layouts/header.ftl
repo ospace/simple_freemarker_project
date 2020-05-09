@@ -1,3 +1,3 @@
 <#ftl encoding='UTF-8'>
-Hello freemarker!
+<h1>Hello freemarker!</h1>
 
